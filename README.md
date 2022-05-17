@@ -1,18 +1,18 @@
 # prog_est_prog_17
-Programa en lenguaje c que muestra el uso de scanf, operaciones aritméticas, el uso del ciclo do-while y condiciones 
-Autor: Oscar Eduardo Fletes Ixta
-Escuela: UVM Campus Lomas Verdes
-Materia : Programcion Estructurada
-CICLO: 01/2022
+Programa en lenguaje c que pide las calificaciones de un alumno y calcula el promedio, cuenta materias aprobadas y reprobadas, con el uso del ciclo do-while, condiciones y operaciones aritmeticas. 
+* Autor: Oscar Eduardo Fletes Ixta
+* Escuela: UVM Campus Lomas Verdes
+* Materia : Programcion Estructurada
+* CICLO: 01/2022
 
 Programa en lenguaje c que muestra el uso de:
--Declaracion de variables 
--Variables del tipo int, float
--scanf
--Operaciones aritmeticas 
--Uso del ciclo do-while
--Uso de condicones
--printf para monstrar los valroes de las variables
+* Declaracion de variables 
+* Variables del tipo int, float
+* scanf
+* Operaciones aritmeticas 
+* Uso del ciclo do-while
+* Uso de condicones
+* printf para monstrar los valroes de las variables
 
 Objetivo:
 Mostrar el uso de variables enteras y flotantes, como declararlas, pedirlas por teclado, usar el ciclo do-while, usar condiciones dnetro del do-while, realizar operaciones aritmeticas e imprimirla.
